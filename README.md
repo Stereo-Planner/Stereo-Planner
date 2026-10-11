@@ -25,11 +25,11 @@ Our simulator, built on the Unity game engine, enables plug-and-play scene const
   <em>Forest Flight at 10 m/s (left) · Industrial Flight at 10 m/s (right)</em>
 </p>
 
-<!-- Our drone design and SOLIDWORKS CAD files will also be released as open source.
+Our drone design and SOLIDWORKS CAD files will also be released as open source.
 
 <div align="center">
   <img src="doc/Platform.jpg" alt="Drone hardware platform" width="99%" />
-</div> -->
+</div>
 
 ## Acknowledgments
 This project builds on [Depth Anything V3](https://github.com/ByteDance-Seed/depth-anything-3). We thank the authors for their excellent work!
