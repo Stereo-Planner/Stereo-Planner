@@ -35,11 +35,15 @@ Our drone design and SOLIDWORKS CAD files will also be released as open source.
 This project builds on [Depth Anything V3](https://github.com/ByteDance-Seed/depth-anything-3). We thank the authors for their excellent work!
 
 ## Additional Information
-<!-- If you find this work useful or interesting, please give us a star ⭐. If you use this repository in your research, please cite our paper. Thank you! -->
+The [preprint](https://arxiv.org/abs/2610.15560) version is available. If you find this work useful, please consider giving this repository a star ⭐. 
 
 ```bibtex
-    @ARTICLE{
-    author={Shen, Hongming and Lu, Junjie and Chen, Xun and Wang, Wei and Xu, Xinhang and Tian, Bailing and Xie, Lihua},
-    title={Stereo-Planner: Learning Stereo-to-Trajectory Planning for Zero-Shot Sim-to-Real Quadrotor Navigation}, 
-    year={2026}}
+@article{shen2026stereoplanner,
+  title   = {Stereo-Planner: Learning Stereo-to-Trajectory Planning for Zero-Shot Sim-to-Real Quadrotor Navigation},
+  author  = {Shen, Hongming and Lu, Junjie and Chen, Xun and Wang, Wei and Xu, Xinhang and Tian, Bailing and Xie, Lihua},
+  journal = {arXiv preprint arXiv:2610.15560},
+  year    = {2026},
+  doi     = {10.48550/arXiv.2610.15560},
+  url     = {https://arxiv.org/abs/2610.15560}
+}
 ```
