@@ -1,5 +1,9 @@
 # Stereo-Planner: Learning Stereo-to-Trajectory Planning for Zero-Shot Sim-to-Real Quadrotor Navigation
-
+<p align="center">
+<a href="https://arxiv.org/abs/2610.15560"><img src="https://img.shields.io/badge/ArXiv-2610.15560-b31b1b.svg?style=flat-square" alt="Arxiv" /></a>
+<a href="https://youtu.be/sgBRB45IetU"><img src="https://badges.aleen42.com/src/youtube.svg" alt="YouTube" /></a>
+<a href="https://www.bilibili.com/video/BV1nAsr6UEo7"><img src="https://img.shields.io/badge/哔哩哔哩-Bilibili-fb7299" alt="Bilibili" /></a>
+</p>
 Stereo-Planner is an end-to-end vision-to-action framework that directly generates agile, collision-free trajectories from onboard stereo RGB observations and enables zero-shot sim-to-real transfer without explicit depth reconstruction or dedicated depth sensors.
 
 ![Network Architecture](doc/NetworkArchitecture.jpg)
